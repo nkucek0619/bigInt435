@@ -8,7 +8,6 @@
 #include <string.h>
 #include <iostream>
 #include <fstream>
-#include <filesystem>
 #include <unistd.h>
 #include "sha256.h"
 #include "BigIntegerLibrary.hh"
